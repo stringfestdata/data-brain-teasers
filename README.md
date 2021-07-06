@@ -7,4 +7,4 @@ Check the `solutions.md` file in this repo for the answers.
 
 ## 1
 
-![](1.png)
+<img src="1.png" width="50%">
