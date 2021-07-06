@@ -1,3 +1,5 @@
+## Solutions
+
 1. Margin of error
 2. Bell curve
 3. Freeze panes
