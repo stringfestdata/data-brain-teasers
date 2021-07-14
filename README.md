@@ -1,5 +1,7 @@
 # Data brain teasers
 
+![Data brain teasers cover](data-brain-teasers.png)
+
 Data brain teasers, brought to you by Stringfest Analytics.
 
 ### To get the answers, [subscribe for exclusive access to our analytics resource library](http://stringfestanalytics.com/subscribe/). 
