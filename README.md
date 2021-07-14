@@ -1,4 +1,4 @@
-# Data brain teasers
+# Can you crunch these data brain teasers?
 
 ![Data brain teasers cover](data-brain-teasers.png)
 
