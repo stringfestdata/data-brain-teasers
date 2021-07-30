@@ -4,7 +4,7 @@
 
 Data brain teasers, brought to you by Stringfest Analytics.
 
-### To get the answers, [subscribe for exclusive access to our analytics resource library](http://stringfestanalytics.com/subscribe/). 
+### [Get the answers to the brain teasers](http://stringfestanalytics.com/subscribe/). 
 
 
 
